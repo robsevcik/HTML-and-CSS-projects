@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="My_Style.css">
+</head>
+<body>
+<p>This is styled with css save in a seperate file!</p>
+<p>YAY ME!!!</p>
+</body>
+</html>
