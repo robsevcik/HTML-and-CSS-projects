@@ -25,8 +25,9 @@ Select all squares in the array
     height:100 px;
     margin: 5 px;
     border: 1 px solid black;
-    border-radius: 25%
+    border-radius: 25%;
     cursor: pointer;
+}
 /*----------------------------------
 Select All Paragraphs in the Array
 -----------------------------------*/
@@ -41,15 +42,15 @@ Select All Paragraphs in the Array
 /*------------------------------------
 Individualy select a square in the arrray
 ------------------------------------------*/
-.squares: nth-child(1) {
+.squares:nth-child(1) {
     background: #4240ff;
 }
-.squares: nth-child(2) {
+.squares:nth-child(2) {
     background: #ab3fdd;
 }
-.squares: nth-child(3) {
+.squares:nth-child(3) {
     background: #ae163a;
 }
-.squares: nth-child(4) {
+.squares:nth-child(4) {
     background: #00b200;
 }
